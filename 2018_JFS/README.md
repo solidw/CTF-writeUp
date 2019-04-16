@@ -6,6 +6,3 @@
 #### <a href="https://solidw.github.io/JFS-RockPaperCesare/" target="_blank">JFS-RockPaperCesare</a>
 #### <a href="https://solidw.github.io/JFS-KnockSackBag/" target="_blank">JFS-KnockSackBag</a>
 #### <a href="https://solidw.github.io/JFS-FlaggyyBird/" target="_blank">JFS-FlaggyyBird</a>
-
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
