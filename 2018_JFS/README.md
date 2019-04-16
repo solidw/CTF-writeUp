@@ -1,0 +1,8 @@
+#### [JFS-evalso](<https://solidw.github.io/JFS-evalso/>)
+#### [JFS-varCode](<https://solidw.github.io/JFS-varCode/>)
+#### [JFS-ABCDE](<https://solidw.github.io/JFS-ABCDE/>)
+#### [JFS-bof_world](<https://solidw.github.io/JFS-bof_world/>)
+#### [JFS-QNPFR](<https://solidw.github.io/JFS-QNPFR/>)
+#### [JFS-RockPaperCesare](<https://solidw.github.io/JFS-RockPaperCesare/>)
+#### [JFS-KnockSackBag](<https://solidw.github.io/JFS-KnockSackBag/>)
+#### [JFS-FlaggyyBird](<https://solidw.github.io/JFS-FlaggyyBird/>)
